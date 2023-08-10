@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>gugudan</name>
+=======
 	<name>hs01</name>
+>>>>>>> branch 'master' of https://github.com/hscra/JAVA
 	<comment></comment>
 	<projects>
 	</projects>
